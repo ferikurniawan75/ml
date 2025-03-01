@@ -5,7 +5,7 @@ const crypto = require('crypto');
 // Konstanta
 const API_URL_LOGIN = "https://mtacc.mobilelegends.com/v2.1/inapp/login";
 const API_URL_CHANGE_EMAIL = "https://mtacc.mobilelegends.com/v2.1/inapp/changebindemail";
-const BOT_TOKEN = "7710828121:AAGdQmVhqQTFquxqwJ00BL_h_-vnWZ21ltw"; // Ganti dengan token bot Anda
+const BOT_TOKEN = "7426966749:AAFDHzqlRWhqGi9RHPkP4cWbDhXQUgjha9k"; // Ganti dengan token bot Anda
 
 // Inisialisasi bot
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
